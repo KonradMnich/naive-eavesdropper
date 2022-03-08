@@ -37,6 +37,7 @@ class NaiveEavesdropper
         }
         old_state = new_state;
         array_element = duration;
+        duration = 0;
       }
     }
 
